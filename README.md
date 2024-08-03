@@ -22,6 +22,8 @@ This SQL project aims to analyze pizza sales data to extract meaningful insights
 
 ## 
 
+![banner](https://github.com/Azmary413/Pizza-Sales-Analysis/blob/main/tables.jpg)
+
 This SQL project involved an in-depth analysis of pizza sales data to derive valuable business insights. The analysis encompassed basic queries, such as retrieving the total number of orders, calculating total revenue, and identifying the highest-priced pizza and most common pizza size. Additionally, it listed the top five most ordered pizza types by quantity.
 
 Intermediate queries joined necessary tables to determine the total quantity of each pizza category ordered, the hourly distribution of orders, the category-wise distribution of pizzas, and the average number of pizzas ordered per day. It also identified the top three pizza types based on revenue.

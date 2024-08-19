@@ -19,6 +19,7 @@ This SQL project aims to analyze pizza sales data to extract meaningful insights
 * Analyze the cumulative revenue generated over time.
 * Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
+![banner](https://github.com/Azmary413/Pizza-Sales-Analysis/blob/main/pizza%20sale%20with%20power%20bi.jpg)
 
 ## 
 
